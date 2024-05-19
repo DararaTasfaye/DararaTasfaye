@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DararaTasfaye
+- 👋 Hi, I’m Darara Tesfaye
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning Computer science and Engineering at Adama Science and Technology University
 - 💞️ I’m looking to collaborate on ...
